@@ -7,6 +7,8 @@ The Watercolour Pen Plotter is a CNC machine designed to operate like a traditio
 
 ## Progress:
 
+Summary: 
+_________________________________________________________________________________________________________________
 Design:
 - All components for the CNC machine have been brainstormed and designed. This was mainly done through sketches.
   
@@ -20,10 +22,13 @@ Work to be complete:
 - Potential optimization of material use in chassis
 - 3D printing and prototyping
 - Running all electrical components with chassis: testing and debugging
-
----------------------------------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________
 
   ### Designing:
+
+  The design process began with varyious sketches. A full PDF can be found here: 
+  [View the file](WCPP_Design.pdf)
+
 
   
 
