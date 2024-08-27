@@ -6,6 +6,7 @@
 The Watercolour Pen Plotter is a CNC machine designed to operate like a traditional pen plotter but tailored for watercolor painting on traditional 8.5 x 11 paper. The goal is to create a compact, user-friendly frame with an added feature for mixing paint. The CNC machine will paint freely, blending colors and adjusting shades by varying the paint-to-water ratios through an automated process.
 
 ## Progress:
+A detailed file describing the process can be found here: [Go to Documentation](Progress.md)
 
 Summary: 
 _________________________________________________________________________________________________________________
@@ -27,10 +28,13 @@ ________________________________________________________________________________
   The design process encompassed many sketches. A full PDF of my sketches can be found here: 
   [View the file](WCPP_Design.pdf)
 
-  A detailed version of my progress can also be found here: [Go to Documentation](docs/Progress.md)
+## CAD Models:
 
-  
+All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly can be found in the repository
 
+  ## Looking to Help Out?
+
+If you are interested in collaborating to make this project even bigger and cooler, don't hesitate to reach out! I'd love to work with others and get different insights and perspectives.
 
   
 
