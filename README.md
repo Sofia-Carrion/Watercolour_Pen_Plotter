@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 ## CAD Models:
 
-All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly can be found in the repository
+All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly can be found in the repository.
 
   ## Looking to Help Out?
 
