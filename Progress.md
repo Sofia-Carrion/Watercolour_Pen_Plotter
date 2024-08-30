@@ -1,6 +1,6 @@
 # Current Progress
 
-  ### WORK DONE FOR BASIC CHASSIS:
+  ## WORK DONE FOR BASIC CHASSIS:
   ----------------------------------
 
   The project started off as a basic pen plotter. The following showcases the main steps I took to create a full SolidWorks assembly of its structure.
@@ -22,7 +22,7 @@
 </p>
 
 
-The general idea was that each axis would be controlled by 1-2 stepper motors, be moved through thread and nuts, and have two support beams to keep them in place.
+The general idea was that each axis would be controlled by 1-2 stepper motors, be moved through thread and nuts, and have two support beams to keep them in place. Additionally, linear ball bearings will be used where necessary to help facilitate movement.
 
 
 ### 2. Design of each axis:
@@ -64,7 +64,7 @@ The general idea was that each axis would be controlled by 1-2 stepper motors, b
 </p>
 
 
-### 3. Assmebly
+### 3. Assmebly:
 
  Once I had each individual axis assembled, I began to piece it all together in one big assembly, making any necessary changes to ensure a proper fit. A close up of how each axis fit can be seen below:
 
@@ -104,7 +104,7 @@ Hopefully it's not too hard to see above, but for a quick explanation: The Z axi
   Full assembly of the basic chassis with view of the inside structure
 </p>
 
-  ### 4. Attachments/Extra Features
+  ### 4. Attachments/Extra Features:
 
   Other parts had to be made as well in order to ensure everything fit nicely.
 
@@ -170,35 +170,59 @@ The final attachment was a simple design to hold the pen/brush in place. Inspire
   CAD of pen holder
 </p>
 
-### WORK DONE FOR THE WATERCOLOUR COMPONENT:
+## WORK DONE FOR THE WATERCOLOUR COMPONENT:
 ------------------------------------------------
 
 To add depth and more complexity to this project, I decided to challenge myself to make the Pen Plotter be able to mix colours and shades through the use of water colours. Below the current work I have done to acheive this can be found:
 
-1. Necessary Components
+### 1. Necessary Components:
 
    I began by brainstorming what components may be needed for a machine to be able to freely use water colours. I thought back to my watercolouring days and noted that varying paints, clean water, and tissue paper was necessary in order to have untainted colours of varying shades while painting. An initial sketch of how these elements could be incoportaed are found below:
 
-   (Sketch)
+<p align="center">
+  <img src="Photos/Watercolour_Tray_Sketch.png" alt="Tray Sketch" width="500" >
+</p>
 
 From here, I realized one big issue. Unless there was human interferance with the machine as it operated, the water used to mix the watercolours would be murky and not allow the colours to mix nicely. A solution to this? A flushing system. 
 
-2. Flushing System
+### 2. Flushing System:
 
    I took inspiration from other flushing systems I have seen for watercolouring. They often looked something like this:
 
-   (add image)
+<p align="center">
+  <img src="Photos/Example_Flush.jpg" alt="Inspiration Flushing System" width="500" >
+</p>
 
-  By taking it to its simplest features, I designed my own, miniscale flushing system that could be used within the CNC. A sketch and CAD of the design can be found below:
+ I simplified the design of this product and sketched and CADed my own miniature version that can hopefully be used in the machine. Some work still has to be done on it, but the general idea and early stage CAD can be seen below: 
 
-  It is a simple spring system. To prevent any leaking, I may decide to opt for a rubber tip.
+<p align="center">
+  <img src="Photos/Flusher_Sketch.png" alt="Flushing System Sketch" width="500" >
+</p>
 
-(Sketch and pic)
+<p align="center">
+  Sketch of flushing system
+</p>
 
-3. Assembly of Tray
+<p align="center">
+  <img src="Photos/Flusher_Assem.png" alt="Flusher CAD" width="500" >
+</p>
+
+<p align="center">
+  CAD of flushing system
+</p>
+
+### 3. Assembly of Tray
 
    (wip)
 
-4. Assmebly to entire CNC chassis
+### 4. Assembly to entire CNC chassis:
 
    (wip)
+
+## WORK DONE FOR ELECTRICAL COMPONENT:
+-----------------------------------------
+
+   ## NOTES:
+   ----------------
+   The addition of the watercolour component is still a WIP. This Progress page will be continuously updated as more work is done. Stay tuned!
+   
