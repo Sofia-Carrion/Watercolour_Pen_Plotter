@@ -110,19 +110,67 @@ Hopefully it's not too hard to see above, but for a quick explanation: The Z axi
 
   For instance, I designed and modeled a holder for the stepper motors. I realized that with a normal box support, it would be very difficult to assemble the stepper motor with the thread and rod. For this reason, I added a little "gate" that allows you to freely slide the motor in and out. A sketch and its CAD can be seen below:
 
-(sketch and CAD)
+<p align="center">
+  <img src="Photos/Stepper_Motor_Support_Sketch.png" alt="Stepper Motor Supp Sketch" width="500" >
+</p>
 
+<p align="center">
+  Sketch of stepper motor support design
+</p>
+
+<p align="center">
+  <img src="Photos/Gate_Eg.png" alt="Stepper Motor Supp " width="500" >
+</p>
+
+<p align="center">
+  CAD of stepper motor support
+</p>
 
 I also had two different designs for a part that could hold the shaft of the motor to the threaded rod. Both designs and models can be seen below and both were incorporated into the final design:
 
-(Pic 1,2,3,4)
+<p align="center">
+  <img src="Photos/Thread_Screw_Connector_Sketch.png" alt="Connector Sketch" width="500" >
+</p>
+
+<p align="center">
+  Sketches of both design ideas to connect motor shaft and thread
+</p>
+
+<p align="center">
+  <img src="Photos/Shaft_Connect.png" alt="Connector 1" width="500" >
+</p>
+
+<p align="center">
+  CAD of thread and shaft connector V1 (one half)
+</p>
+
+<p align="center">
+  <img src="Photos/Shaft_Small_Connector.png" alt="Connector 2" width="500" >
+</p>
+
+<p align="center">
+  CAD of thread and shaft connector V2
+</p>
 
 The final attachment was a simple design to hold the pen/brush in place. Inspired by a compass, this attachement useses a screw and thread to tighten and hold it:
 
-(image of design and CAD)
+<p align="center">
+  <img src="Photos/Pen_Holder_Sketch.png" alt="Pen holder sketch" width="500" >
+</p>
 
+<p align="center">
+  Sketch of pen holder design
+</p>
 
-### WORK DONE FOR THE WATERCOLOUR COMPONENT
+<p align="center">
+  <img src="Photos/Pen_Holder.png" alt="Pen holder" width="500" >
+</p>
+
+<p align="center">
+  CAD of pen holder
+</p>
+
+### WORK DONE FOR THE WATERCOLOUR COMPONENT:
 ------------------------------------------------
 
 To add depth and more complexity to this project, I decided to challenge myself to make the Pen Plotter be able to mix colours and shades through the use of water colours. Below the current work I have done to acheive this can be found:
