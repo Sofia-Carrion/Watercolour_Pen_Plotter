@@ -5,52 +5,110 @@
 
   The project started off as a basic pen plotter. The following showcases the main steps I took to create a full SolidWorks assembly of its structure.
 
-1. Movement:
+### 1. Movement:
 
-I began by evaluating how to control the movement of the axes, drawing from my experience with other CNC machines. Opting for a standard thread and nut was the simplest and most suitable choice. With this decision made, I focused on designing how the pen would move along every axi, taking into account the stepper motor sizes and weights, as well as the space needed for the pen to cover the entire paper. An initial sketch looked something like this:
+  I began this project by planning the movement of the pen. Since the machine needed to draw, incorporating both the x and y axes was obvious. Likewise, adding a z-axis to lift and lower the pen onto the paper was essential. However, I needed to consider the displacement required for each axis. To keep things simple, I decided the machine should be capable of drawing anywhere on a standard 8.5 by 11-inch sheet of paper. For the z-axis, I chose a 1 cm range, which would provide enough clearance for brushes to create varying thicknesses if I decided to include that feature.
+    
+  With the basic concept established, I considered different ways to achieve movement. Having previous experience with CNC machines and having designed parts for one myself, I opted for a standard thread and nut, as my experience with these has been straightforward and reliable. Keeping this in mind, I started sketching how I envisioned the machine operating. An early-stage sketch can be seen below:
 
-(Initial sketch)
+<p align="center">
+  <img src="Photos/Org_Axis_Sketch.jpg" alt="Original Sketch" width="500" >
+</p>
 
-An updated drawing could also be seen:
+  Later on, I updated these sketches to be a bit more clear and showcase each axis individually:
 
-(Updated sketch from PDF)
-
-
-Every axis would be controlled by its own stepper motor. Support beams and a thread would facilitate easy movement.
-
-
-2. Design of each axis:
-
-With a general idea of how I wanted the machine to operate, I began to do some work in CAD and assemble each of the axis individually. I played around with different sizes and shapes, aiming to make the machine as small as possible. The biggest change between the initial sketches and their new CADS was the removal of one of the support rods. CADS of each assembly for the Z,X, and Y axis could be seen below:
-
-(Images of all three CADS)
-
-CAD files can also be found here:
-(IMPORT CAD ASSEMBLIES)
+<p align="center">
+  <img src="Photos/Updated_Axis_Sketch.jpg" alt="Updated Sketch" width="500" >
+</p>
 
 
-3. Assmebly
-
-  At this stage, I began a big assembly where I could put all the axis togehter and ensure a good fit. Close-ups of how all parts attach can be found below:
-
-   (add close up images)
-
-   Once it all fit smoothly, I did some calculations for how large to make the rods, threads, and overall base of the structure. (This did change later on when I decided to add the watercolour attachment) With the sizing determined, an assembly was created:
+The general idea was that each axis would be controlled by 1-2 stepper motors, be moved through thread and nuts, and have two support beams to keep them in place.
 
 
+### 2. Design of each axis:
+
+  With a general idea of how I wanted the machine to operate, I began to do some work in CAD and assemble each of the axis individually. I played around with different sizes and shapes, aiming to make the machine as small as possible. The biggest change between the initial sketches and their new CADS was the removal of one of the support rods. This was done as I had found that everything was relatively light enough that one support rod could suffice (I did add an extra one for the right side of the y axis since the stepper motor would weight it down on one side). CADS of each assembly for the Z,X, and Y axis could be seen below:
+
+   **********ADD THE CADS BELOW EACH ************
+
+<p align="center">
+  <img src="Photos/Assem_X.png" alt="CAD_x" width="500" >
+</p>
+
+<p align="center">
+  Assembly of the X axis
+</p>
+
+<p align="center">
+  <img src="Photos/Assem_Y.png" alt="CAD_Y" width="500" >
+</p>
+
+<p align="center">
+  Assembly of the Y axis (left side)
+</p>
+
+<p align="center">
+  <img src="Photos/Assem_Y_NS.png" alt="CAD_Y_2" width="500" >
+</p>
+
+<p align="center">
+  Assembly of the Y axis (Right side)
+</p>
+
+<p align="center">
+  <img src="Photos/Assem_Z.png" alt="CAD_Z" width="500" >
+</p>
+
+<p align="center">
+  Assembly of the Z axis (Note: The piece that connects the thread and shaft only shows half of it for visibility reasons)
+</p>
 
 
+### 3. Assmebly
 
+ Once I had each individual axis assembled, I began to piece it all together in one big assembly, making any necessary changes to ensure a proper fit. A close up of how each axis fit can be seen below:
 
+<p align="center">
+  <img src="Photos/Connections_1.png" alt="Connections_1" width="500" >
+</p>
 
+<p align="center">
+  Example image of how the axis connect with one another
+</p>
 
+<p align="center">
+  <img src="Photos/Connections_2.png" alt="Connections_2" width="500" >
+</p>
 
+<p align="center">
+  Example image of how the axis connect with one another and the inside structure
+</p>
 
-   4. Attachments/Extra Features
+Hopefully it's not too hard to see above, but for a quick explanation: The Z axis moves along the x axis which is being supported by two bases, both of which move alone the y axis. (This is more clear in the image of the full assembly below)
 
-      Other parts had to be made as well in order to ensure everything fit nicely.
+   Once it all fit smoothly, I did some calculations for how large to make the rods, threads, and the overall base of the structure (This did change later on when I decided to add the watercolour attachment). With the sizing determined, an assembly was created:
 
-      For instance, I designed and modeled a holder for the stepper motors. I realized that with a normal box support, it would be very difficult to assemble the stepper motor with the thread and rod. For this reason, I added a little "gate" that allows you to freely slide the motor in and out. A sketch and its CAD can be seen below:
+<p align="center">
+  <img src="Photos/Full_Assembly.png" alt="Connections_2" width="500" >
+</p>
+
+<p align="center">
+  Full assembly of the basic chassis
+</p>
+
+<p align="center">
+  <img src="Photos/Full_Assembly_2.png" alt="Connections_2" width="500" >
+</p>
+
+<p align="center">
+  Full assembly of the basic chassis with view of the inside structure
+</p>
+
+  ### 4. Attachments/Extra Features
+
+  Other parts had to be made as well in order to ensure everything fit nicely.
+
+  For instance, I designed and modeled a holder for the stepper motors. I realized that with a normal box support, it would be very difficult to assemble the stepper motor with the thread and rod. For this reason, I added a little "gate" that allows you to freely slide the motor in and out. A sketch and its CAD can be seen below:
 
 (sketch and CAD)
 
