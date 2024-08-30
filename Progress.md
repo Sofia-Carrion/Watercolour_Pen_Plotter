@@ -27,9 +27,8 @@ The general idea was that each axis would be controlled by 1-2 stepper motors, b
 
 ### 2. Design of each axis:
 
-  With a general idea of how I wanted the machine to operate, I began to do some work in CAD and assemble each of the axis individually. I played around with different sizes and shapes, aiming to make the machine as small as possible. The biggest change between the initial sketches and their new CADS was the removal of one of the support rods. This was done as I had found that everything was relatively light enough that one support rod could suffice (I did add an extra one for the right side of the y axis since the stepper motor would weight it down on one side). CADS of each assembly for the Z,X, and Y axis could be seen below:
+  With a general idea of how I wanted the machine to operate, I began to do some work in CAD and assemble each of the axis individually. I played around with different sizes and shapes, aiming to make the machine as small as possible. The biggest change between the initial sketches and their new CADS was the removal of one of the support rods. This was done as I had found that everything was relatively light enough that one support rod could suffice (I did add an extra one for the right side of the y axis since the stepper motor would weight it down on one side). CADs of each assembly for the Z,X, and Y axis could be seen below:
 
-   **********ADD THE CADS BELOW EACH ************
 
 <p align="center">
   <img src="Photos/Assem_X.png" alt="CAD_x" width="500" >
