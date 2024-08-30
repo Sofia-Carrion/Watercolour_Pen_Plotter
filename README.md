@@ -28,8 +28,8 @@ Work to be complete:
 - Running all electrical components with chassis: testing and debugging
 ___________________________________________________________________________________________________________________
 
-  The design process encompassed many sketches. A full PDF of my sketches can be found here: 
-  [View the file](WCPP_Design.pdf)
+  The design process encompassed many sketches. A full PDF of my sketches can be found 
+  [here](WCPP_Design.pdf)
 
 ## CAD Models:
 
