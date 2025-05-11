@@ -210,18 +210,42 @@ From here, I realized one big issue. Unless there was human interferance with th
   CAD of flushing system
 </p>
 
-### 3. Assembly of Tray
+### 3. Prototyping and Assembly of Tray
 
    (wip)
 
-### 4. Assembly to entire CNC chassis:
+### 4. Prototyping and Assembly of entire CNC chassis:
 
-   (wip)
+   Currently, I have done rapid prototyping of all the custom parts that I created in SolidWorks. Since this was a very quick and rough prototype, I used lightning for the infill geometry at 15%. This infill is very weak and will not be used for the final prototype. Photos of the parts can be seen below.
+
+   <p align="center">
+      <img src="" alt="Image 1" width="500" >
+    </p>
+
+  <p align="center">
+      Image 1
+  </p>
+
+  <p align="center">
+      <img src="" alt="Image 1" width="500" >
+    </p>
+
+  <p align="center">
+      Image 1
+  </p>
+
+  I then purchased all the metal parts that are linked in the "ReadMe" file and assembled the chassis together. Photos of the assembled chassis can be found below.
+
+  ...
+
+  A better and stronger prototype is currently in the works and photos will be uploaded once assembled and complete.
 
 ## WORK DONE FOR ELECTRICAL COMPONENT:
 -----------------------------------------
 
-   ## NOTES:
-   ----------------
-   The addition of the watercolour component is still a WIP. This Progress page will be continuously updated as more work is done. Stay tuned!
+For the electronics, I verified stepper motor wiring by checking coil continuity in unconventional motor leads to ensure correct connections. I successfully ran G-code using a CNC shield and Arduino Uno to achieve precise motor control, and have begun researching G-code manipulation to adapt motion paths for watercolor painting behavior.
+
+ ## NOTES:
+ ----------------
+The addition of the watercolour component is still a WIP. This Progress page will be continuously updated as more work is done. Stay tuned!
    
