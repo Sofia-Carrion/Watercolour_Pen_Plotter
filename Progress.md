@@ -216,7 +216,7 @@ From here, I realized one big issue. Unless there was human interferance with th
 
 ### 4. Prototyping and Assembly of entire CNC chassis:
 
-   Currently, I have done rapid prototyping of all the custom parts that I created in SolidWorks. Since this was a very quick and rough prototype, I used lightning for the infill geometry at 15%. This infill is very weak and will not be used for the final prototype. Photos of the parts can be seen below.
+   Currently, I have done rapid prototyping of all the custom parts that I created in SolidWorks. Since this was a very quick and rough prototype, I used lightning for the infill geometry at 15%. This infill is very weak and will not be used for the final prototype. Photos of the parts in an assembled chassis can be seen below.
 
    <p align="center">
       <img src="" alt="Image 1" width="500" >
@@ -234,9 +234,6 @@ From here, I realized one big issue. Unless there was human interferance with th
       Image 1
   </p>
 
-  I then purchased all the metal parts that are linked in the "ReadMe" file and assembled the chassis together. Photos of the assembled chassis can be found below.
-
-  ...
 
   A better and stronger prototype is currently in the works and photos will be uploaded once assembled and complete.
 
