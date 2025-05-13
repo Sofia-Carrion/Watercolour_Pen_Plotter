@@ -219,21 +219,68 @@ From here, I realized one big issue. Unless there was human interferance with th
    Currently, I have done rapid prototyping of all the custom parts that I created in SolidWorks. Since this was a very quick and rough prototype, I used lightning for the infill geometry at 15%. This infill is very weak and will not be used for the final prototype. Photos of the parts in an assembled chassis can be seen below.
 
    <p align="center">
-      <img src="" alt="Image 1" width="500" >
+      <img src="Photos/Assembly_Top.jpg" alt="Assembly Top View" width="500" >
     </p>
 
   <p align="center">
-      Image 1
+      Full Assembly
   </p>
 
   <p align="center">
-      <img src="" alt="Image 1" width="500" >
+      <img src="Photos/Assembly_YSupp_Left.jpg" alt="Image" width="500" >
     </p>
 
   <p align="center">
-      Image 1
+      Y Support (Left)
   </p>
 
+  <p align="center">
+      <img src="Photos/Assembly_Ysupp_Right.jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+      Y Support (Right)
+  </p>
+
+  <p align="center">
+      <img src="Photos/Assembly_Zsupp_side.jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+      Z Support
+  </p>
+  
+  <p align="center">
+      <img src="Photos/Assembly_YSupp_Right (2).jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+      Y Support (Right)
+  </p>
+
+  <p align="center">
+      <img src="Photos/Flusher.jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+      Flusher System
+  </p>
+
+  <p align="center">
+      <img src="Photos/Z.jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+      Z Axis
+  </p>
+
+  <p align="center">
+      <img src="Photos/ZBlock.jpg" alt="Image" width="500" >
+    </p>
+
+  <p align="center">
+     Z Block
+  </p>
 
   A better and stronger prototype is currently in the works and photos will be uploaded once assembled and complete.
 
